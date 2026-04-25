@@ -39,3 +39,7 @@ O quiz contém perguntas básicas voltadas para iniciantes na área de programa�
 ---
 
 ## 📂 Estrutura do projeto
+
+## 🌍 Acesse o projeto online
+
+👉 https://DiegoSantiago1.github.io/QuizBasico/
