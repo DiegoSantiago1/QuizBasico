@@ -2,6 +2,10 @@
 
 Um quiz simples e interativo desenvolvido com HTML e CSS para testar conhecimentos básicos de programação.
 
+## 🌍 Acesse o projeto online
+
+👉 https://DiegoSantiago1.github.io/QuizBasico/
+
 ## 📌 Sobre o projeto
 
 Este projeto foi criado com o objetivo de praticar conceitos fundamentais de desenvolvimento web, como:
@@ -40,6 +44,4 @@ O quiz contém perguntas básicas voltadas para iniciantes na área de programa�
 
 ## 📂 Estrutura do projeto
 
-## 🌍 Acesse o projeto online
 
-👉 https://DiegoSantiago1.github.io/QuizBasico/
